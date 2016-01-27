@@ -30,6 +30,8 @@ ALLOWED_HOSTS = []
 my_name = "srikanth"
 
 
+
+
 # Application definition
 
 INSTALLED_APPS = [
